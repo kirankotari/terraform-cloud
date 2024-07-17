@@ -15,6 +15,7 @@ provider "null" {
 locals {
   jones = ["indy", "kiran"]
   trigger_destroy = true
+
 }
 
 
