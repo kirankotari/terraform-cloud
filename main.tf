@@ -13,7 +13,7 @@ provider "null" {
 
 /* a list of local variables */
 locals {
-  jones = ["indy", "henry", "marian", "shortround", "marcus_brody", "sallah", "mola_ram", "elsa", "willie", "kiran"]
+  jones = ["indy", "kiran"]
 }
 
 
